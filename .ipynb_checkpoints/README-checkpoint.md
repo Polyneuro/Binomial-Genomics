@@ -14,7 +14,7 @@ This repository is based on the following paper:
 
 **The Dirichlet (Alpha)-Multinomial Distribution as a model in Genomics and the utility of Artificial Intelligence in exploring gene interaction and epigenetics of depression, anxiety and Chronic Pain – development of a preliminary model** 
 
-Athula K. Polonowita$^{1}$, Ajith D. Polonowita$^{2}$, Kanishka Ranaweera$^{3}$, Tharini Ketharanathan$^{1}$, Jamie Young$^{1}$, Chris Chan$^{1}$, Yangqi Xu$^{1}$, Pubudu N. Pathirana$^{3}$
+Athula K. Polonowita$^{(1)}$, Ajith D. Polonowita$^{(2)}$, Kanishka Ranaweera$^{(3)}$, Tharini Ketharanathan$^{(1)}$, Jamie Young$^{(1)}$, Chris Chan$^{(1)}$, Yangqi Xu$^{(1)}$, Pubudu N. Pathirana$^{(3)}$
 
 1.	Sir Peter McCallum Department of Oncology, University of Melbourne, Australia
 2.	Department of Oral Diagnostic and Surgical Sciences, Faculty of Dentistry, University of Otago, New Zealand 
